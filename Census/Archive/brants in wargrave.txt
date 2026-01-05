@@ -1,0 +1,16 @@
+Source Information:
+  Dwelling   Gibstrode Farm 
+  Census Place Wargrave, Berkshire, England 
+  Family History Library Film   1341318 
+  Public Records Office Reference   RG11 
+  Piece / Folio   1312 / 46 
+  Page Number   21 
+
+ Name  Relation Marital Status Gender Age Birthplace Occupation Disability 
+ Thomas BRANT   Head   M   Male   64   Arborfield, Berkshire, England   Ag Laborer     
+ Harriet BRANT   Wife   M   Female   68   White Waltham, Berkshire, England        
+ George BRANT   Son   U   Male   36   Binfield, Berkshire, England   General Laborer     
+ Jesse BRANT   Grand Son   U   Male   15   Wargrave, Berkshire, England   Ag Lab     
+
+
+--------------------------------------------------------------------------------

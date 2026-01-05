@@ -1,0 +1,645 @@
+ARBORFIELD ELECTORAL REGISTER 1950
+
+Wokingham Parliamentary Constituency
+Arborfield and Newland Polling District
+Swallowfield Electoral Division
+
+No.  Surname     Forenames            Address                             Juror/S Location
+
+  36 Ayres       Nellie G.            Arborfield Court Lodge                      Arborfield Court
+  37 Ayres       Percy W.             Arborfield Court Lodge                      Arborfield Court
+  57 Beamiss     Peggy Jacqueline     Flat 1, Arborfield Court               J    Arborfield Court
+ 617 Willis      Auriol               Flat 3, Arborfield Court                    Arborfield Court
+ 618 Willis      William David        Flat 3, Arborfield Court                    Arborfield Court
+ 602 Wheeler     Mavis Winifred       Flat 4, Arborfield Court                    Arborfield Court
+ 603 Wheeler     Reuben George        Flat 4, Arborfield Court                    Arborfield Court
+ 519 Staines     Edith Hannah         Lanthorn Cot., Flat 2, Arborfield Court     Arborfield Court
+ 520 Staines     Leonard Robert Henry Lanthorn Cot., Flat 2, Arborfield Court     Arborfield Court
+ 448 Paterson    Margaret Winifred    Maisonette, Arborfield Court                Arborfield Court
+ 449 Paterson    Noel Kennedy         Maisonette, Arborfield Court           J    Arborfield Court
+ 574 Wadman      Charles Frederick    2 Court Cots.                               Arborfield Court
+ 575 Wadman      Millicent Joan       2 Court Cots.                               Arborfield Court
+ 319 Hunt        Florence H.          Court Cot.                                  Arborfield Court
+ 320 Hunt        James                Court Cot.                                  Arborfield Court
+ 321 Hunt        Norman C.            Court Cot.                                  Arborfield Court
+ 486 Saunders    Stephen G.           Ailsa Craig, Arborfield Cross               Ailsa Craig, Arborfield Cross
+ 279 Hayward     Alexina J. A.        Ailsa Craig, Arborfield Cross               Arborfield Cross
+ 281 Hayward     William W.           Ailsa Craig, Arborfield Cross               Arborfield Cross
+ 122 Chitty      Martha M.            Arborfield Cross                            Arborfield Cross
+ 123 Chitty      Thomas J.            Arborfield Cross                            Arborfield Cross
+ 158 Day         Beatrice E.          Arborfield Cross                            Arborfield Cross
+ 160 Day         Ethel H.             Arborfield Cross                            Arborfield Cross
+ 161 Day         Joseph               Arborfield Cross                            Arborfield Cross
+ 168 Druett      Beatrice M.          Arborfield Cross                            Arborfield Cross
+ 169 Druett      Dorothy A.           Arborfield Cross                            Arborfield Cross
+ 170 Druett      James                Arborfield Cross                            Arborfield Cross
+ 171 Druett      Jesse V. G.          Arborfield Cross                            Arborfield Cross
+ 172 Druett      Marjorie G.          Arborfield Cross                            Arborfield Cross
+ 173 Druett      Martha M.            Arborfield Cross                            Arborfield Cross
+ 212 Garey       Elsie L.             Arborfield Cross                            Arborfield Cross
+ 213 Garey       James G.             Arborfield Cross                            Arborfield Cross
+ 610 Wickham     Dorothy              Arborfield Cross                            Arborfield Cross
+ 611 Wickham     Joyce                Arborfield Cross                            Arborfield Cross
+ 612 Wickham     Mary                 Arborfield Cross                            Arborfield Cross
+ 613 Wickham     May                  Arborfield Cross                            Arborfield Cross
+ 614 Wickham     Stanley              Arborfield Cross                            Arborfield Cross
+ 323 Inglis      Anderson             Fairview, Arborfield Cross                  Arborfield Cross
+ 324 Inglis      Anderson B.          Fairview, Arborfield Cross                  Arborfield Cross
+ 325 Inglis      Margaret             Fairview, Arborfield Cross                  Arborfield Cross
+ 462 Radley      Judith Josephine     Arborfield Grange                           Arborfield Grange
+ 463 Radley      Thomas William       Arborfield Grange                           Arborfield Grange
+  28 Athawes     Douglas              16 Arborfield Hall                          Arborfield Hall
+  29 Athawes     Emily A.             16 Arborfield Hall                          Arborfield Hall
+  30 Athawes     Hubert G.            16 Arborfield Hall                          Arborfield Hall
+  31 Athawes     Phyllis J.           16 Arborfield Hall                          Arborfield Hall
+ 629 Woods       Phyllis J.           22 Hut, Arborfield Hall                     Arborfield Hall
+ 630 Woods       Reginald             22 Hut, Arborfield Hall                     Arborfield Hall
+ 295 Hiscock     Lucy Winifred        26 Arborfield Hall Camp                     Arborfield Hall
+ 471 Rickard     Alfred D.            33 Hut, Arborfield Hall Camp                Arborfield Hall
+ 472 Rickard     Ivy P.               33 Hut, Arborfield Hall Camp                Arborfield Hall
+ 203 Forbes      Alice K.             35 Hut, Arborfield Hall                     Arborfield Hall
+ 204 Forbes      Gerald               35 Hut, Arborfield Hall                     Arborfield Hall
+ 191 Farnham     Isobel C.            36 Arborfield Hall                          Arborfield Hall
+ 192 Farnham     Sidney G.            36 Arborfield Hall                          Arborfield Hall
+ 549 Thumbwood   James                4 Arborfield Hall Camp, Reading Rd.         Arborfield Hall
+ 524 Stewart     Louise E.            40 Arborfield Hall                          Arborfield Hall
+ 525 Stewart     Malcolm              40 Arborfield Hall                          Arborfield Hall
+  11 Allan       Julia A.             5 Hut, Arborfield Hall                      Arborfield Hall
+ 585 Warrick     Doris D.             6 Hut, Arborfield Hall                      Arborfield Hall
+ 539 Terry       Doreen Beatrice CeliaEast Lodge, Arborfield Hall                 Arborfield Hall
+ 540 Terry       Frank Albert         East Lodge, Arborfield Hall                 Arborfield Hall
+ 340 Johnstone   Elsie                Flat 1, Arborfield Hall                     Arborfield Hall
+ 341 Johnstone   John N.              Flat 1, Arborfield Hall                     Arborfield Hall
+ 294 Hiscock     Henry                Hut 26, Arborfield Hall                     Arborfield Hall
+ 491 Seaward     Alfred               Hut 43, Arborfield Hall                     Arborfield Hall
+ 492 Seaward     Margerie L.          Hut 43, Arborfield Hall                     Arborfield Hall
+ 622 Wood        Kenneth Frederick    Mill House, Arborfield Hall                 Arborfield Hall
+ 623 Wood        Mabel                Mill House, Arborfield Hall                 Arborfield Hall
+ 619 Wood        David V.             South Lodge, Arborfield Hall                Arborfield Hall
+ 624 Wood        Peggy                South Lodge, Arborfield Hall                Arborfield Hall
+ 588 Watton      Isabella             Sweet Briar Caravan, Arborfield Hall        Arborfield Hall
+ 589 Watton      Samuel               Sweet Briar Caravan, Arborfield Hall        Arborfield Hall
+ 156 Davis       Robert Cecil         Upper Flat, Arborfield Hall                 Arborfield Hall
+ 157 Davis       Rose                 Upper Flat, Arborfield Hall                 Arborfield Hall
+ 456 Povey       Gilbert John         10 Arborfield Hall Camp                     Arborfield Hall
+ 457 Povey       Lilian Eileen        10 Arborfield Hall Camp                     Arborfield Hall
+ 233 Goldsworthy Edwin Charles        17 Arborfield Hall Camp                     Arborfield Hall
+ 234 Goldsworthy Millie Beatrice      17 Arborfield Hall Camp                     Arborfield Hall
+ 421 Mullins     Ernest Robert        17 Arborfield Hall Camp                     Arborfield Hall
+  24 Armstrong   Marjorie Elsie       25 Arborfield Hall Camp                     Arborfield Hall
+  25 Armstrong   Walter               25 Arborfield Hall Camp                     Arborfield Hall
+ 586 Watson      Francis.             31 Arborfield Hall Camp                     Arborfield Hall
+ 478 Rolfe       Doris May            38 Arborfield Hall Camp                     Arborfield Hall
+ 479 Rolfe       Kenneth Desborough   38 Arborfield Hall Camp                     Arborfield Hall
+ 117 Chaplin     Clifford M.          39 Arborfield Hall Camp                     Arborfield Hall
+ 118 Chaplin     Ellen La B.          39 Arborfield Hall Camp                     Arborfield Hall
+ 546 Thumbwood   Alice                4 Arborfield Hall Camp, Reading Rd.         Arborfield Hall
+ 547 Thumbwood   Frederick W.         4 Arborfield Hall Camp, Reading Rd.         Arborfield Hall
+ 548 Thumbwood   George W.            4 Arborfield Hall Camp, Reading Rd.         Arborfield Hall
+ 368 Lawton      Vincent              42 Arborfield Hall Camp                     Arborfield Hall
+ 443 Paget       Joseph R.            44 Arborfield Hall Camp                     Arborfield Hall
+ 444 Paget       Mary V.              44 Arborfield Hall Camp                     Arborfield Hall
+ 382 Lilleywhite Stanley H.           7 Arborfield Hall Camp                      Arborfield Hall
+ 383 Lilleywhite Violet E.            7 Arborfield Hall Camp                      Arborfield Hall
+ 271 Haslett     Rona Eileen          8 Arborfield Hall Camp                      Arborfield Hall
+ 269 Haslett     George               8 Arborfield Hall Camp, Reading Rd.         Arborfield Hall
+ 258 Hamblin     Robert Macdonald     Agricultural Cots., Arborfield Hall Farm    Arborfield Hall
+ 259 Hamblin     Margaret Alice       Agricultural Cots., Arborfield Hall Farm    Arborfield Hall
+ 424 Mullins     Kathleen Ellen May   Agricultural Cots., Arborfield Hall Farm    Arborfield Hall
+ 621 Wood        James M.             Arborfield Hall Farm                        Arborfield Hall
+ 476 Robinson    Maisie Laura.        Caravan Site 4, Arborfield Hall Camp        Arborfield Hall
+ 477 Robinson    Reginald Thomas SidneCaravan Site 4, Arborfield Hall Camp        Arborfield Hall
+ 332 Jarvis      George Gordon        Caravan Site 8, Arborfield Hall Camp        Arborfield Hall
+ 333 Jarvis      Ethel Mary           Caravan Site 8, Arborfield Hall Camp        Arborfield Hall
+ 434 Newton      Ada Louise           Caravan Site 8, Arborfield Hall Camp        Arborfield Hall
+ 631 Worrall     Ethel M.             Hut 2, Arborfield Hall Camp                 Arborfield Hall
+ 632 Worrall     George W.            Hut 2, Arborfield Hall Camp                 Arborfield Hall
+ 608 White       Linda                Hut 32, Arborfield Hall Camp                Arborfield Hall
+ 609 White       William E.           Hut 32, Arborfield Hall Camp                Arborfield Hall
+  90 Bucksey     Margaret M.          Hut 34, Arborfield Hall Camp                Arborfield Hall
+ 523 Stevens     Johaanna             Hut 34, Arborfield Hall Camp                Arborfield Hall
+  89 Bucksey     Eric J.              Hut 34, Arborfield Hall Camp.               Arborfield Hall
+ 350 Kirby       Charles L.           Hut 37, Arborfield Hall Camp                Arborfield Hall
+ 351 Kirby       Hilda A.             Hut 37, Arborfield Hall Camp                Arborfield Hall
+ 352 Kirby       John W.              Hut 37, Arborfield Hall Camp                Arborfield Hall
+ 167 Dixon       David S. J.          Hut 43, Arborfield Hall Camp                Arborfield Hall
+ 565 Turner      Albert George        Oldfield, Arborfield Hall Farm              Arborfield Hall
+ 566 Turner      Peggy Joyce          Oldfield, Arborfield Hall Farm              Arborfield Hall
+ 229 Gilbert     Reginald Horace      Park View, Hall Farm                        Arborfield Hall
+ 620 Wood        Edith L.             The Hall Farm                               Arborfield Hall
+ 450 Pattison    Christopher          Yellow Cot., Arborfield Hall Farm           Arborfield Hall
+ 451 Pattison    Kathleen May         Yellow Cot., Arborfield Hall Farm           Arborfield Hall
+ 604 Wheeler     William Thomas       Yellow Cot., Arborfield Hall Farm           Arborfield Hall
+ 587 Watson      Gladys               31 Arborfield Hall Camp                     Arborfield Hall
+ 230 Gilbert     Violet Irene Mary    Park View, Hall Farm                        Arborfield Hall
+ 159 Day         Dora R.              4 Arborfield Rd.                            Arborfield Road
+  41 Barcus      Rosamund B.          Bearwood Gdns., Bearwood                    Bearwood
+  42 Barcus      Thomas E.            Bearwood Gdns., Bearwood                    Bearwood
+ 318 Hunt        Ethel E.             Gasworks Lodge, R.M.N.S., Bearwood          Bearwood
+ 322 Hunt        William J.           Gasworks Lodge, R.M.N.S., Bearwood          Bearwood
+ 441 Packman     Lily Violet May      Laundry Cot., R.M.N.S.                      Bearwood
+ 522 Steel       Mettie               Main Bldg., R.M.N.S. Bearwood               Bearwood
+ 187 Everett     Marjorie Winifred    Main Bldg., R.M.N.S., Bearwood              Bearwood
+ 205 Fox         Phoebe Betts         Main Bldg., R.M.N.S., Bearwood              Bearwood
+  83 Briscoe     Nellie H.            Mole Farm, Bearwood                         Bearwood
+  84 Briscoe     Richard C.           Mole Farm, Bearwood                         Bearwood
+ 438 Oates       Arthur W. G.         Mole Farm, Bearwood                         Bearwood
+ 439 Oates       Louisa T.            Mole Farm, Bearwood                         Bearwood
+ 143 Couling     Albert               Park Lodge, Bearwood                        Bearwood
+ 144 Couling     Emily K.             Park Lodge, Bearwood                        Bearwood
+  51 Barker      Howard W.            R. M. N. S., Bearwood                       Bearwood
+ 125 Clark       Dorothy              R. M. N. S., Bearwood                       Bearwood
+  58 Beaumont    Olive Louise         R.M.N.S., Bearwood                          Bearwood
+  59 Belcher     Grace                R.M.N.S., Bearwood                          Bearwood
+  66 Bennett     Barbara Winifred     R.M.N.S., Bearwood                          Bearwood
+  82 Bridge      Richmal              R.M.N.S., Bearwood                          Bearwood
+ 195 Fisher      Jesse                R.M.N.S., Bearwood                          Bearwood
+ 254 Hall        May                  R.M.N.S., Bearwood                          Bearwood
+ 369 Lee         Edith A.             R.M.N.S., Bearwood                          Bearwood
+ 413 Moran       Margaret             R.M.N.S., Bearwood                          Bearwood
+ 431 Neville     Elizabeth            R.M.N.S., Bearwood                          Bearwood
+ 480 Rudman      Marjorie E.          R.M.N.S., Bearwood                          Bearwood
+ 607 White       Lilian Deakin        R.M.N.S., Bearwood                          Bearwood
+ 633 Yeo         Ethel                R.M.N.S., Bearwood                          Bearwood
+ 208 Francklow   Arnold R.            The Bungalow, R.M.N.S., Bearwood            Bearwood
+ 209 Francklow   Doris                The Bungalow, R.M.N.S., Bearwood            Bearwood
+ 498 Silver      Benjamin C.          The Gardens, R.M.N.S., Bearwood             Bearwood
+ 499 Silver      Dorothy              The Gardens, R.M.N.S., Bearwood             Bearwood
+ 265 Harmer      Frederick V.         West Lodge, R.M.N.S., Bearwood              Bearwood
+ 266 Harmer      Gertrude V.          West Lodge, R.M.N.S., Bearwood              Bearwood
+ 175 Durbridge   Catherine O.         Beech Cot.                                  Beech Cottage
+ 177 Durbridge   William E.           Beech Cot.                                  Beech Cottage
+ 109 Carr        Gerald William       Betty Grove, Sindlesham                     Betty Grove
+ 267 Harris      Herbert              Betty Grove, Sindlesham                     Betty Grove
+ 296 Holmes      Emma                 Betty Grove, Sindlesham                     Betty Grove
+ 297 Holms       Isobel               Betty Grove, Sindlesham                     Betty Grove
+ 298 Holms       William K.           Betty Grove, Sindlesham                     Betty Grove
+ 384 Lock        Bertram J.           Betty Grove, Sindlesham                     Betty Grove
+ 385 Lock        Johanna M.           Betty Grove, Sindlesham                     Betty Grove
+ 107 Carr        Brenda Mary          Betty Grove Farm, Sindlesham                Betty Grove
+ 108 Carr        Edward               Betty Grove Farm, Sindlesham                Betty Grove
+ 301 Hornby      Dorothy F.           Bramshill Hunt                              Bramshill Hunt
+ 302 Hornby      Frank N.             Bramshill Hunt                         J    Bramshill Hunt
+ 303 Hornby      Peggy Ann            The Bramshill Hunt                          Bramshill Hunt
+ 135 Cook        Evelyn Blanche       Bridge Farm Cots.                           Bridge Farm
+ 137 Cook        Wilfred Owen Richard Bridge Farm Cots.                           Bridge Farm
+ 222 Gibbs       Agnes E.             Brook Cots.                                 Brook Cottages
+ 223 Gibbs       John                 Brook Cots.                                 Brook Cottages
+ 224 Gibbs       Ronald J.            Brook Cots.                                 Brook Cottages
+ 326 Inglis      Robert M.            Brook Cots., Newlands, Arborfield Cross     Brook Cottages
+ 327 Inglis      Winifred             Brook Cots., Newlands, Arborfield Cross     Brook Cottages
+ 307 Hughes      Gladys               1 Carters Hill                              Carters Hill
+ 308 Hughes      Harold N.            1 Carters Hill, Arborfield Cross            Carters Hill
+ 260 Happy       Minnie A.            2 Vine Cot., Carter’s Hill, Sindlesham      Carters Hill
+ 261 Happy       Victor C.            2 Vine Cot., Carter’s Hill, Sindlesham      Carters Hill
+ 165 Dimond      James G.             Carters Hill Farm, Arborfield Cross    J    Carters Hill
+ 600 Wheeler     Hazel Elizabeth      Jelkes Cots., Carters Hill                  Carters Hill
+ 314 Hughes      William E.           Jilkes Cot., Carter’s Hill, Arborfield CrossCarters Hill
+ 310 Hughes      John William         Jilkes Cot., Carters Hill                   Carters Hill
+ 306 Hughes      Dorothy E.           Jilkes Cot., Carters Hill, Arborfield Cross Carters Hill
+ 365 Lawtey      Gerald               Mole Inn                                    Carters Hill
+ 428 Nash        Lily M.              Spring Copse, Carters Hill                  Carters Hill
+ 353 Knowles     John R.              Spring Copse, Carters Hill, Arborfield CrossCarters Hill
+ 354 Knowles     Minna M.             Spring Copse, Carters Hill, Arborfie   J    Carters Hill
+ 139 Cordery     Edwin G.             The Glen, Newland                           Carters Hill
+ 140 Cordery     Gertrude H.          The Glen, Newland                           Carters Hill
+ 141 Cordery     John Arthur (jnr.)   The Glen, Newland                           Carters Hill
+ 142 Cordery     Reginald Edward ErnesThe Glen, Newland                           Carters Hill
+   2 Adams       Gertrude L.          The Mole                                    Carters Hill
+  34 Ayles       Ernest               Vine Cot., Carter’s Hill, Sindlesham        Carters Hill
+  35 Ayles       Mary J.              Vine Cot., Carter’s Hill, Sindlesham        Carters Hill
+ 309 Hughes      Jessie A.            2 Carter’s Hill Cots.                       Carters Hill
+ 394 Martin      Robert James         2 Carters Hill Cots.                        Carters Hill
+ 313 Hughes      William              2 Carters Hill Farm                         Carters Hill
+ 311 Hughes      Joseph W.            3 Carters Hill Cots., Arborfield Cross      Carters Hill
+ 312 Hughes      Mabel A.             3 Carters Hill Cots., Arborfield Cross      Carters Hill
+ 598 Wheeler     Elizabeth            Carters Hill Cots.                          Carters Hill
+ 599 Wheeler     Francis G.           Carters Hill Cots.                          Carters Hill
+ 615 Whitehead   Peter Nield          Carters Hill Farm                           Carters Hill
+ 166 Dimond      Kathleen             Carters Hill Farm, Arborfield Cross         Carters Hill
+ 210 Franklin    Cynthia              Carters Hill Farm, Arborfield Cross         Carters Hill
+ 211 Franklin    Geoffrey             Carters Hill Farm, Arborfield Cross         Carters Hill
+ 442 Paddock     Ellender J.          Carters Hill Farm, Arborfield Cross         Carters Hill
+ 605 White       Annie E. U.          Cockleberry, Carters Hill Lane              Carters Hill
+ 606 White       Cedric W.            Cockleberry, Carters Hill Lane              Carters Hill
+  23 Andrews     Trevor               Arborfield Rectory                          Church Lane
+ 163 Deacon      Frank                Church Cot.                                 Church Lane
+ 164 Deacon      Jane                 Church Cot.                                 Church Lane
+ 370 Lee         Elsie M.             Hillside, Church Lane                       Church Lane
+ 371 Lee         Frederick D.         Hillside, Church Lane                       Church Lane
+ 290 Hibberd     Florence May         Lavender Cot., Church Lane                  Church Lane
+ 291 Hibberd     Herbert John         Lavender Cot., Church Lane                  Church Lane
+  12 Allen       Edith M.             Phyllena, Church Lane                       Church Lane
+  15 Allen       George               Phyllena, Church Lane                       Church Lane
+ 360 Launchbury  Maurice L.           Phyllena, Church Rd.                        Church Road
+ 361 Launchbury  Phyllis E. E.        Phyllena, Church Rd.                        Church Road
+ 317 Humphris    George               Philena, Church Road                        Church Road
+ 147 Cox         Fanny                Reading Room, Arborfield Cross              Church Lane
+ 148 Cox         William T.           Reading Room, Arborfield Cross              Church Lane
+ 544 Thoresby    Doris M. P.          The Pheasantries                            Church Lane
+ 545 Thoresby    Mervyn               The Pheasantries                            Church Lane
+  22 Andrews     Lilian C.            The Rectory                                 Church Lane
+ 512 Sparshott   Claude D.            The Rectory                                 Church Lane
+ 513 Sparshott   Elizabeth D.         The Rectory                                 Church Lane
+ 330 Jarvis      Ada M.               Eveley Cot.                                 Church Lane
+ 331 Jarvis      Albert               Eveley Poultry Farm                    J    Church Lane
+ 334 Jarvis      Peter Morton         Eveley Poultry Farm, Church Lane            Church Lane
+ 514 Stacey      Alice                Coombs Cot., Newland                        Coombs Cottage, Newland
+ 516 Stacey      Harold               Coombs Cot., Newland                        Coombs Cottage, Newland
+ 518 Stacey      Walter               Coombs Cot., Newland                        Coombs Cottage, Newland
+ 530 Streak      James                1 Council Cots.                             Council Cottages
+ 103 Byrne       Hilda                1 Council Cots., Arborfield Cross           Council Cottages
+ 217 Garrett     Kenneth A.           2 Council Houses                            Council Houses
+ 218 Garrett     Mary                 2 Council Houses                            Council Houses
+ 216 Garrett     Iris Valerie May     2 Council Houses, Eversley Rd.              Council Houses, Eversley Road
+ 100 Butler      Mary A.              3 Council Houses                            Council Houses
+   7 Aldridge    Arthur J.            3 Council Cots.                             Council Cottages
+   8 Aldridge    Charlotte            3 Council Cots.                             Council Cottages
+ 583 Ward        Beatrice E.          4 Council Houses, Arborfield Cross          Council Houses, Arborfield Cross
+ 584 Ward        Frank E.             4 Council Cots.                             Council Cottages
+ 162 Day         Vincent Wallis       4 Council Houses, Eversley Rd.              Council Houses, Eversley Road
+ 245 Gutteridge  Betty                5 Council Houses                            Council Houses
+ 246 Gutteridge  Lionel J.            5 Council Houses                            Council Houses
+ 247 Gutteridge  Marion J.            5 Council Houses                            Council Houses
+ 248 Gutteridge  Vera L.              5 Council Houses                            Council Houses
+ 124 Clark       Clifford J.          6 Council Houses                            Council Houses
+ 126 Clark       Edith M.             6 Council Houses                            Council Houses
+  94 Bush        John                 7 Council Houses                            Council Houses
+ 328 Inns        Irene V.             7 Council Houses, Arborfield Cross          Council Houses, Arborfield Cross
+ 329 Inns        Richard A. J.        7 Council Houses, Arborfield Cross          Council Houses, Arborfield Cross
+ 174 Duffield    May S.               8 Council Cot.                              Council Cottages
+ 304 Hornby      Peggy Diana          8 Council Houses, Eversley Rd.         S    Council Houses, Eversley Road
+ 305 Hornby      Stanley              8 Council Houses, Eversley Rd.         S    Council Houses, Eversley Road
+ 576 Wakefield   Mary Marion          8 Council Houses, Eversley Rd.              Council Houses, Eversley Road
+ 401 Middleton   Alice M.             9 Council Houses, Arborfield Cross          Council Houses, Arborfield Cross
+ 402 Middleton   Ernest J.            9 Council Houses, Arborfield Cross          Council Houses, Arborfield Cross
+ 344 Kavanagh    John                 10 Council Houses                           Council Houses
+ 482 Ryan        Lily                 10 Council Houses                           Council Houses
+ 483 Ryan        Michael              10 Council Houses                           Council Houses
+ 348 Kent        Joseph               11 Council Houses                           Council Houses
+ 349 Kent        Minnie K.            11 Council Houses                           Council Houses
+ 275 Hatcher     Dorothy S. F.        12 Council Houses Arborfield Cross          Council Houses, Arborfield Cross
+ 274 Hatcher     Charles H.           12 Council Houses, Arborfield Cross         Council Houses, Arborfield Cross
+ 420 Mullins     Edna                 13 Council Houses                           Council Houses
+ 425 Mullins     Leslie               13 Council Houses                           Council Houses
+ 400 Mayes       George Bridges       14 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+ 255 Hall        Nelly B.             14 Council Cots.                            Council Cottages
+  92 Bush        Arthur M. N.         15 Council Houses                           Council Houses
+  93 Bush        Edith A.             15 Council Houses                           Council Houses
+  95 Bush        Richard W.           15 Council Houses                           Council Houses
+  96 Bush        William A.           15 Council Houses                           Council Houses
+  79 Bradford    Jean Ellen           15 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+   5 Aitchison   David Samuel         16 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+   4 Aitchison   David                16 Council Cots.                            Council Cottages
+   6 Aitchison   Florence E.          16 Council Cots.                            Council Cottages
+ 388 Love        Ernest               17 Council Houses                           Council Houses, Eversley Road
+ 389 Love        Lilian Mabel         17 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+ 390 Love        Samuel Ernest        17 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+ 378 Lewcock     Charles W.           18 Council Houses                           Council Houses
+ 379 Lewcock     Violet A.            18 Council Houses                           Council Houses
+ 138 Copper      Phyllis B.           19 Council Houses                           Council Houses
+ 445 Parker      Ernest J.            19 Council Houses                           Council Houses
+ 446 Parker      Minnie E.            19 Council Houses                           Council Houses
+ 506 Smith       Barbara M. M.        20 Council Cots.                            Council Cottages
+ 511 Smith       Richard J.           20 Council Cots.                            Council Cottages
+ 251 Hall        Frederick J.         21 Council Houses                           Council Houses
+ 252 Hall        Gladys L.            21 Council Houses                           Council Houses
+ 590 Watts       Edith C.             22 Council Cots.                            Council Cottages
+ 591 Watts       Joseph E.            22 Council Cots.                            Council Cottages
+ 542 Thomson     Elizabeth            23 Council Houses                           Council Houses
+  98 Butler      Arthur C.            24 Council Houses                           Council Houses
+  99 Butler      Bertha L.            24 Council Houses                           Council Houses
+ 284 Henn        Joseph L. H.         25 Council Houses                           Council Houses
+ 285 Henn        Kathleen A.          25 Council Houses                           Council Houses
+ 286 Henn        Rosemary Jean Evelyn 25 Council Houses, Eversley Rd.             Council Houses
+ 358 Lamport     James H.             26 Council Houses                           Council Houses
+ 359 Lamport     Olive P.             26 Council Houses                           Council Houses
+ 403 Middleton   Fred                 27 Council Cots.                            Council Cottages
+   1 Adams       Evelyn               27 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+   3 Adams       Herbert Harold Gibson27 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+  52 Barker      Leslie M.            28 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+  48 Barker      Emily K.             28 Council Houses                           Council Houses
+  49 Barker      Frank M.             28 Council Houses                           Council Houses
+ 278 Haylett     Emily                29 Council Cots.                            Council Cottages
+ 277 Haylett     Clifford             29 Council Houses, Eversley Rd.        S-   Council Houses, Eversley Road
+ 597 Wheeler     Alice                30 Council Houses                           Council Houses
+ 601 Wheeler     Herbert H.           30 Council Houses                           Council Houses
+ 532 Sumner      Ernest               31 Council Cots.                            Council Cottages
+ 533 Sumner      Pamela K.            31 Council Cots.                            Council Cottages
+ 593 Wells       Rosa M.              31 Council Houses                           Council Houses
+ 594 Wells       Walter A.            31 Council Houses                           Council Houses
+  13 Allen       Edward J.            32 Council Houses                           Council Houses
+  14 Allen       Fred                 32 Council Houses                           Council Houses
+  16 Allen       Henry A.             32 Council Houses                           Council Houses
+  17 Allen       May                  32 Council Houses                           Council Houses
+  18 Allen       Joseph T.            32 Council Houses                           Council Houses
+ 136 Cook        May                  32 Council Houses, Eversley Rd.             Council Houses, Eversley Road
+  43 Barefoot    Ann                  Ducks Nest Farm                             Ducks Nest Farm
+  44 Barefoot    Iris                 Ducks Nest Farm                             Ducks Nest Farm
+  45 Barefoot    Maurice J.           Ducks Nest Farm                        J    Ducks Nest Farm
+ 145 Coulter     Enid Mackenzie       The Cot., Ellis Hill, Hughes Green          Ellis Hill
+ 146 Coulter     James Crighton       The Cot., Ellis Hill, Hughes Green          Ellis Hill
+ 102 Bye         Ellen H.             1 Duck’s Nest Cot.                          Eversley Road
+ 495 Sellwood    George               2 Ducks Nest Cots.                          Eversley Road
+ 497 Sellwood    Lizzie               2 Ducks Nest Cots.                          Eversley Road
+ 493 Sellwood    Arthur George        2 Ducks Nest Cots., Eversley Rd.            Eversley Road
+  64 Bennett     Amy                  3 Ducks Nest Cots.                          Eversley Road
+  68 Bennett     Henry T.             3 Ducks Nest Cots.                          Eversley Road
+  38 Baines      Alexina              4 Ducks Nest Cots.                          Eversley Road
+  39 Baines      John L.              4 Ducks Nest Cots.                          Eversley Road
+ 287 Herbert     Bessie               5 Ducks Nest Cot.                           Eversley Road
+ 288 Herbert     Frederick G.         5 Ducks Nest Cot.                           Eversley Road
+ 289 Herbert     James                5 Ducks Nest Cots., Eversley Rd.            Eversley Road
+ 625 Woodley     John T.              1 Harts Cots., Arborfield Cross             Eversley Road
+ 626 Woodley     Mabel                1 Harts Cots., Arborfield Cross             Eversley Road
+ 101 Buxcey      Jesse                2 Harts Cots., Eversley Rd.                 Eversley Road
+  71 Bentley     Arthur J.            1 Whitewell, Arborfield Cross               Eversley Road
+  72 Bentley     Beatrice L.          1 Whitewell, Arborfield Cross               Eversley Road
+ 595 West        Alfred W.            2 Hillside Villas, Eversley Rd.             Eversley Road
+ 596 West        Daisy M.             2 Hillside Villas, Eversley Rd.             Eversley Road
+ 342 Jones       Daniel               2 Post Office Cots.                         Eversley Road
+ 343 Jones       Emily Louise         2 Post Office Cots.                         Eversley Road
+  73 Bentley     Ellen L.             2 Whitewell                                 Eversley Road
+  75 Bentley     Samuel G.            2 Whitewell                                 Eversley Road
+  70 Bentley     Alice                2 Whitewell, Arborfield Cross               Eversley Road
+ 399 May         Albert V.            20 Eversley Rd.                             Eversley Road
+ 426 Narroway    Leonard J.           1 Brick Kiln Cot.                           Brick Kiln Cottages
+ 427 Narroway    Mabel                1 Brick Kiln Cot.                           Brick Kiln Cottages
+  85 Brown       William C.           2 Brick Kiln Cot.                           Brick Kiln Cottage
+  86 Brown       Winifred A.          2 Brick Kiln Cot.                           Brick Kiln Cottage
+ 404 Middleton   Kate E.              Brick Kiln Cots., Arborfield Cross          Brick Kiln Cottages
+ 405 Middleton   William V.           Brick Kiln Cots., Arborfield Cross          Brick Kiln Cottages
+ 235 Gooch       Gladys Patricia      4 Brick Kiln Cots., Eversley Rd.            Eversley Road
+ 236 Gooch       William Frederick    4 Brick Kiln Cots., Eversley Rd.            Eversley Road
+ 241 Grainge     Albert E.            Beech House, Arborfield Cross               Eversley Road
+ 490 Seaman      Herbert S.           Beech House, Arborfield Cross               Eversley Road
+ 489 Seaman      Florence Maud        Beech House, Eversley Rd.                   Eversley Road
+ 377 Levasseur   Esther Frances       Birch House                                 Eversley Road
+  19 Allison     Ingeborg             Birch House, Arborfield Cross               Eversley Road
+ 119 Cheyney     Ralph C.             Ducks Nest Farm                             Eversley Road
+ 206 Foxton      Alice M.             Foxcroft, Eversley Rd.                      Eversley Road
+ 207 Foxton      Victor D.            Foxcroft, Eversley Rd.                      Eversley Road
+ 503 Skelly      Zillah               Foxcroft, Eversley Rd.                      Eversley Road
+ 504 Skelly      Robert               Foxcroft, Eversley Rd.                      Eversley Road
+ 429 Neat        Henry                Hart Cots.                                  Eversley Road
+ 272 Hatchard    Alfred Thomas Henry  Kimberley Lodge, Eversley Rd.          S-   Eversley Road
+ 273 Hatchard    Conrad Gladys        Kimberley Lodge, Eversley Rd.               Eversley Road
+  76 Bentley     William G.           Magnolia House                         J    Eversley Road
+  74 Bentley     Georgina B.          Magnolia House, Arborfield Cross            Eversley Road
+ 182 Edwards     Frances M.           Mileham Cot., Arborfield Cross              Eversley Road
+ 534 Tayler      Helen A.             Mileham Cot., Arborfield Cross              Eversley Road
+ 129 Clewes      Mary J.              Post Office Cots.                           Eversley Road
+ 130 Clewes      William J.           Post Office Cots.                           Eversley Road
+ 554 Titcombe    Violet Agnes         Post Office Cots., Eversley Rd.             Eversley Road
+ 555 Titcombe    Walter               Post Office Cots., Eversley Rd.             Eversley Road
+ 397 Mattingley  Marjorie S.          Post Office, Arborfield Cross               Eversley Road
+ 398 Mattingley  Percy J.             Post Office, Arborfield Cross               Eversley Road
+  46 Barker      Alice M.             Strathyre, Eversley Rd.                     Eversley Road
+  47 Barker      Arthur W.            Strathyre, Eversley Rd.                     Eversley Road
+ 335 Jervoise    Frances H.           Targetts                               J    Eversley Road
+ 435 Newton      Dorothy              Targetts Farm                               Eversley Road
+ 436 Newton      Edward E.            Targetts Farm                               Eversley Road
+ 558 Tosswill    Dorothy Frances      Targetts, Eversley Rd.                      Eversley Road
+ 179 Durling     Emma Rose Edith      The Swan Inn, Eversley Rd.                  Eversley Road
+ 180 Durling     John William         The Swan Inn, Eversley Rd.                  Eversley Road
+ 386 Lord        Mabel                Whitehall                                   Eversley Road
+ 387 Lord        Wilfred Austin       Whitehall, Eversley Rd.                S    Eversley Road
+   9 Aldridge    Edith M.             Forge Cot.                                  Forge Cottage
+  10 Aldridge    Thomas Richard       Forge Cot.                                  Forge Cottage
+ 460 Price       Helen                19732/R N.A.A.F.I., Poperinghe Camp         Garrison
+ 521 Stamp       Ann                  19732/R N.A.A.F.I., Poperinghe Camp         Garrison
+ 150 Cruttenden  Mollie               19732/R, N. A. A. F. I., Poperinghe Camp    Garrison
+ 280 Hayward     Lucy Alice           4 M. Q., R. E. Depot                        Garrison
+ 527 Strange     Iris R.              N.A.A.F.I., Poperinghe Barracks             Garrison
+ 592 Webb        Bessie               No. 1 M. Q., R. E. Depot                    Garrison
+ 556 Tocock      Bessie Ellen Mabel   No. 2 M. Q., R. E. Depot                    Garrison
+ 557 Tocock      William James        No. 2 M. Q., R. E. Depot                    Garrison
+ 414 Morgan      May                  No. 3 Married Qtrs., R. E. Depot            Garrison
+ 393 McNally     Ada Louise           Ordnance Lodge, A. A. School                Garrison
+  63 Bennett     Alice Maud           The Bungalow, R. E. Depot                   Garrison
+  67 Bennett     Cyril Herbert        The Bungalow, R. E. Depot                   Garrison
+ 508 Smith       Helenora             Y.M.C.A., Poperinghe Camp                   Garrison
+ 509 Smith       James H.             Y.M.C.A., Poperinghe Camp                   Garrison
+ 526 Strachan    Christine Myra       Y.M.C.A., Poperinghe Camp                   Garrison
+ 355 Lacey       Joan E.              Gellibrands                                 Gellibrands
+ 356 Lacey       Malcolm              Gellibrands                                 Gellibrands
+ 357 Lacey       Minnie E.            Gellibrands                                 Gellibrands
+ 110 Castle      Gladys L.            Grange Cots.                                Grange
+ 422 Mullins     John T.              Grange Cot.                                 Grange Cottage
+ 423 Mullins     Kate E.              Grange Cot.                                 Grange Cottage
+ 455 Power       Hessie Helen         Grange Cot.                                 Grange Cottage
+ 573 Vickers     Edith M.             Arborfield Grange Cots.                     Grange Cottages
+ 242 Greentree   William              1 Parish Cots., Greensward Lane             Greensward Lane
+ 276 Hawkins     Mary B.              2 Parish Cots. Greensward Lane              Greensward Lane
+ 510 Smith       Mary                 3 Greensward Lane                           Greensward Lane
+  91 Budd        Kate J.              3 Parish Cots., Greensward Lane             Greensward Lane
+ 536 Taylor      Dorothy E. M.        4 Greensward Lane                           Greensward Lane
+ 538 Taylor      Samuel G.            4 Greensward Lane                           Greensward Lane
+  53 Barrett     Edward               Ashill, Greensward Lane                     Greensward Lane
+ 468 Richardson  Mary                 Ashill, Greensward Lane                     Greensward Lane
+ 375 Legg        Cecil Reginald       Grange Cots., Greensward Lane               Greensward Lane
+ 362 Lawrence    George               Greensward Lane                             Greensward Lane
+ 363 Lawrence    Mary                 Greensward Lane                             Greensward Lane
+ 364 Lawrence    Phoebe               Greensward Lane                             Greensward Lane
+ 474 Rivers      Elizabeth            Greensward Lane                             Greensward Lane
+ 475 Rivers      Frank                Greensward Lane                             Greensward Lane
+ 127 Clarke      Marjory              Laburnum, Greensward Lane                   Greensward Lane
+ 128 Clarke      Thomas H.            Laburnum, Greensward Lane                   Greensward Lane
+ 473 Rivers      Charles              Preston House, Greensward Lane              Greensward Lane
+ 315 Hulford     Ernest J.            Rose Lawn, Greensward Lane                  Greensward Lane
+ 316 Hulford     Flora K.             Rose Lawn, Greensward Lane                  Greensward Lane
+  60 Bell        James L.             St. Leonards, Greensward Lane               Greensward Lane
+  61 Bell        Lionel Harloch       St. Leonards, Greensward Lane               Greensward Lane
+  62 Bell        Myfanwy              St. Leonards, Greensward Lane               Greensward Lane
+ 154 Davies      Janet                The Old School                              Greensward Lane
+ 155 Davies      John C.              The Old School                              Greensward Lane
+ 184 Empson      Margery E.           Woodside, Greensward Lane                   Greensward Lane
+ 535 Taylor      Cecilia E.           Wormstall Farm                              Greensward Lane
+ 537 Taylor      Martin H.            Wormstall Farm                              Greensward Lane
+ 376 Legg        Rose Beatrice Martha Grange Cots., Greenward Lane                Greenward Lane
+ 113 Chambers    Edwin C.             Highbank                                    Highbank
+ 114 Chambers    Ellen                Highbank                                    Highbank
+ 116 Chambers    Joyce E.             Highbank                                    Highbank
+ 112 Chambers    Charles A.           Highfield                                   Highfield
+ 115 Chambers    Evelyn R.            Highfield                                   Highfield
+ 181 Edwards     Ethel H.             Hillside                                    Hillside
+ 183 Edwards     Frederick G.         Hillside Villa                              Hillside Villa
+ 198 Fleming     Gladys               2 Leaside                                   Leaside
+ 199 Fleming     Robert M.            2 Leaside                                   Leaside
+  50 Barker      Frederick C. A.      Leaside                                     Leaside
+ 418 Mulford     Edna A.              Model Cot., Arborfield Cross                Model Cottage, Arborfield Cross
+ 419 Mulford     John                 Model Cot., Arborfield Cross                Model Cottage, Arborfield Cross
+ 567 Turner      Stanley R.           Model Cot., Arborfield Cross                Model Cottage, Arborfield Cross
+ 454 Pohlit      Irene                2 Gravel Pit Cots., Mole Lane               Mole Lane
+ 561 Tucker      Ada R.               Gravel Pit Cots., Mole Lane                 Mole Lane
+ 563 Tucker      Herbert J.           Gravel Pit Cots., Mole Lane                 Mole Lane
+  65 Bennett     Arthur               3 Newland Council Cots.                     Newland Council Cottages
+  69 Bennett     Joyce E.             3 Newland Council Cots.                     Newland Council Cottages
+ 226 Giddings    Doris Florence May   4 Newland Council Houses                    Newland Council Houses
+ 447 Parrott     Ethel M.             Hill Cot., Newlands                         Newlands
+ 111 Chadwick    Edward William       Newlands                                    Newlands
+ 500 Simonds     Aline R.             Newlands                                    Newlands
+ 220 Gerring     Bertha P.            Kiln Rest, Whitehall Brick and Tile Works   now Sheerlands Road
+ 221 Gerring     George F.            Kiln Rest, Whitehall Brick and Tile Works   now Sheerlands Road
+ 299 Hopgood     Clare                1 Pond Cot.                                 Pond Cottage
+ 300 Hopgood     John                 1 Pond Cot.                                 Pond Cottage
+ 505 Smith       Annie                2 Pond Cots.                                Pond Cottages
+ 541 Thomson     Duncan W.            Bridge Farm                                 Reading Road
+ 543 Thomson     Mary                 Bridge Farm                                 Reading Road
+ 430 Neville     Arthur               Bridge Farm Cots.                           Reading Road
+ 432 Neville     Gladys               Bridge Farm Cots.                           Reading Road
+ 256 Ham         Harold               Cross Lanes Farm                            Reading Road
+ 257 Ham         Phyllis Mary         Cross Lanes Farm                            Reading Road
+ 176 Durbridge   Ethel                Faraway, Reading Rd.                        Reading Road
+ 178 Durbridge   William G.           Faraway, Reading Rd.                        Reading Road
+  40 Baldwin     Gertrude M.          Grange Cot.                                 Reading Road
+ 481 Russell     Frances Evelyn       Homestead, Reading Rd.                      Reading Road
+ 559 Treacher    Lillie M.            Homestead, Reading Rd.                      Reading Road
+ 560 Treacher    William E.           Homestead, Reading Rd.                      Reading Road
+ 188 Farmer      Ernest E.            Oakside, Reading Rd.                        Reading Road
+ 189 Farmer      Liliam M.            Oakside, Reading Rd.                        Reading Road
+ 190 Farmer      Minnie               Oakside, Reading Rd.                        Reading Road
+ 262 Harding     Florence A.          Ravenstone, Reading Rd.                     Reading Road
+ 263 Harding     John Dennis          Ravenstone, Reading Rd.                     Reading Road
+ 264 Harding     William A.           Ravenstonr, Reading Rd.                     Reading Road
+ 104 Capper      Athol  H.            Ridgefield                             J    Reading Road
+ 105 Capper      Jessie               Ridgefield                                  Reading Road
+ 106 Capper      John                 Ridgefield, Arborfield Cross                Reading Road
+ 345 Kayley      Emma A.              Stonehaven, Reading Rd.                     Reading Road
+ 268 Haslett     George A.            The Retreat, Reading Rd.                    Reading Road
+ 270 Haslett     Louisa B.            The Retreat, Reading Rd.                    Reading Road
+  20 Andrew      Freda M.             School House                                School House
+  21 Andrew      Frederick J.         School House                                School House
+ 437 Novell      Frederick            1 School Rd.                                School Road
+ 529 Streak      Emily E.             2 School Rd., Arborfield Cross              School Road
+ 531 Streak      William              2 School Rd., Arborfield Cross              School Road
+ 282 Hazell      Frank                5 School Rd.                                School Road
+ 283 Hazell      Matilda              5 School Rd.                                School Road
+ 568 Tuthill     Charles E.           Agricultural Cots., School Rd.              School Road
+ 569 Tuthill     Olive M.             Agricultural Cots., School Rd.              School Road
+ 131 Cogbill     Charles V.           School Rd.                                  School Road
+ 132 Cogbill     Elsie J.             School Rd.                                  School Road
+ 214 Garrett     Barbara Joan         School Rd., Arborfield                      School Road
+ 215 Garrett     Elsie M.             School Rd., Arborfield                      School Road
+ 219 Garrett     William              School Rd., Arborfield Cross                School Road
+ 528 Streak      Alick                School Rd., Arborfield Cross                School Road
+ 185 Englefield  Henry T.             1 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 186 Englefield  Rose E.              1 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 440 Occomore    Charles              1 Newlands Council Houses, Mole Rd.         Sindlesham
+ 407 Miller      Frederick Vivian     2 Newland Council Houses, Mole Rd.          Sindlesham
+ 408 Miller      Yvonne               2 Newland Council Houses, Mole Rd.          Sindlesham
+ 133 Colman      George J.            2 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 134 Colman      Iris I.              2 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 225 Giddings    Daisy                4 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 227 Giddings    Richard V.           4 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 228 Giddings    Vera D.              4 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 239 Goodyer     Lilian Anne Pearl    5 Newland Council Houses, Mole Rd.          Sindlesham
+ 238 Goodyer     James.               5 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 249H adfield    Ivy E.               5 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 250 Hadfield    William G.           5 Newlands Cots., Mole Rd., Sindlesham      Sindlesham
+ 581 Walton      Amy E.               6 Newlands, Mole Rd., Sindlesham            Sindlesham
+ 582 Walton      Douglas V.           6 Newlands, Mole Rd., Sindlesham            Sindlesham
+ 374 Lee         Rocliffe S.          West Lodge, Mole Rd., Sindlesham            Sindlesham
+ 372 Lee         Gladys               Newlands Farm                               Sindlesham Road
+ 373 Lee         Herbert G.           Newlands Farm                               Sindlesham Road
+ 380 Liddiard    Albert G. C.         Newlands Lodge, Arborfield Cross            Sindlesham Road
+ 381 Liddiard    Dorothy E E.         Newlands Lodge, Arborfield Cross            Sindlesham Road
+  77 Blackmore   Gertrude Nellie      1 Parish Cot., Swallowfield Rd.             Swallowfield Road
+  78 Blackmore   John Henry           1 Parish Cot., Swallowfield Rd.             Swallowfield Road
+  80 Brean       Florence G. K.       3 Swallowfield Rd.                          Swallowfield Road
+  81 Brean       Reginald             3 Swallowfield Rd.                          Swallowfield Road
+ 494 Sellwood    Eliza S. A.          4 Swallowfield Rd.                          Swallowfield Road
+ 496 Sellwood    James C.             4 Swallowfield Rd.                          Swallowfield Road
+  87 Browne      Hilda L.             5 Swallowfield Rd.                          Swallowfield Road
+  88 Browne      Thomas A.            5 Swallowfield Rd.                          Swallowfield Road
+  32 Atkins      Sybil Lucy           6 Swallowfield Rd.                          Swallowfield Road
+  33 Atkins      Victor George        6 Swallowfield Rd.                          Swallowfield Road
+ 458 Price       Alan                 Applemore Cot., Swallowfield Rd.            Swallowfield Road
+ 459 Price       Francis (sic) CarolinApplemore Cot., Swallowfield Rd.            Swallowfield Road
+ 550 Tilley      Dorothy M.           Bartletts Farm                              Swallowfield Road
+ 551 Tilley      Florence A.          Bartletts Farm                              Swallowfield Road
+ 552 Tilley      Horace J.            Bartletts Farm                              Swallowfield Road
+ 553 Tilley      Marjorie D.          Bartletts Farm                              Swallowfield Road
+ 409 Moore       Arthur L.            Byeways, Swallowfield Rd.              J    Swallowfield Road
+ 411 Moore       Harold J.            Byeways, Swallowfield Rd.                   Swallowfield Road
+ 412 Moore       Mabel A.             Byeways, Swallowfield Rd.                   Swallowfield Road
+ 507 Smith       Dorothy Day          Byways, Swallowfield Rd.                    Swallowfield Road
+ 237 Goodyer     Ivy S.               Chamberlains Farm                           Swallowfield Road
+ 240 Goodyer     William W.           Chamberlains Farm                           Swallowfield Road
+ 243 Guerrier    Margaret             Kennys Farm, Maggs Green                    Swallowfield Road
+ 515 Stacey      Frederick William    Mag Green, Swallowfield Rd.                 Swallowfield Road
+ 517 Stacey      Madeline.            Mag Green, Swallowfield Rd.                 Swallowfield Road
+ 366 Lawton      Joseph W. S.         Maggs Green                                 Swallowfield Road
+ 367 Lawton      Katie L.             Maggs Green                                 Swallowfield Road
+  97 Bushell     Joseph               The Bull Inn                                Swallowfield Road
+ 253 Hall        Lilian E.            The Bull Inn                                Swallowfield Road
+ 200 Fluen       Charles William      The Bull, Arborfield Cross                  Swallowfield Road
+ 201 Fluen       Joan Christina       The Bull, Arborfield Cross                  Swallowfield Road
+ 202 Foday       Francis              The Bull, Arborfield Cross                  Swallowfield Road
+ 231 Goddard     Doris M.             Whites Farm                                 Swallowfield Road
+ 232 Goddard     William              Whites Farm                            J    Swallowfield Road
+ 433 Newbold     Mabel                Yew Tree Cot., Swallowfield Rd.             Swallowfield Road
+ 452 Peacock     John Roydon          Yew Tree Cot., Swallowfield Rd.             Swallowfield Road
+ 453 Peacock     Olive J.             Yew Tree Cottage, Arborfield Cross          Swallowfield Road
+ 244 Guerrier    May                  Kellys, Maggs Green                         Swallowfiled Road
+ 196 Fleming     Edith J.             The Bridge House                            The Bridge House
+ 197 Fleming     Evan                 The Bridge House                       J    The Bridge House
+ 391 Lyford      Arthur               The Bungalow, Newlands                      The Bungalow, Newlands
+ 392 Lyford      Edith                The Bungalow, Newlands                      The Bungalow, Newlands
+ 616 Williamson  Jerrard Ross         The Grange                                  The Grange
+  26 Aspery      Phyllis S. J.        The Mill House                              The Mill House
+  27 Aspery      Sidney               The Mill House                              The Mill House
+ 151 Daish       Edith B.             The Withies                                 The Withies
+ 152 Daish       Peter R.             The Withies                                 The Withies
+ 153 Daish       William J.           The Withies                                 The Withies
+ 578 Wakeford    Peter O.             11 Walden  Ave.                             Walden  Avenue
+ 469 Richmond    Arthur Edward        1 Walden Ave.                               Walden Avenue
+ 470 Richmond    Rosetta              1 Walden Ave.                               Walden Avenue
+ 416 Muir        Edna Mary            Gay Nor, 4 Walden Ave.                      Walden Avenue
+ 417 Muir        William Leiper       Gay Nor, 4 Walden Ave.                      Walden Avenue
+
+ 466 Read        Charles F.           5 Walden Ave.                               Walden Avenue
+ 467 Read        Kathleen             5 Walden Ave.                               Walden Avenue
+ 406 Miles       Stanley C.           6 Walden Ave.                               Walden Avenue
+ 501 Sirett      May A. A.            6 Walden Ave.                               Walden Avenue
+ 502 Sirett      Walter               6 Walden Ave.                               Walden Avenue
+ 484 Sanaghan    Charles              7 Walden Ave.                               Walden Avenue
+ 485 Sanaghan    Jean P.              7 Walden Ave.                               Walden Avenue
+ 570 Unsworth    Joseph               7 Walden Ave.                               Walden Avenue
+ 571 Unsworth    Letitia M.           7 Walden Ave.                               Walden Avenue
+ 572 Unsworth    Marie L.             7 Walden Ave.                               Walden Avenue
+ 346 Kean        Miriam               8 Walden Ave.                               Walden Avenue
+ 347 Kean        William S.           8 Walden Ave.                               Walden Avenue
+ 577 Wakeford    Linda                11 Walden Ave.                              Walden Avenue
+ 336 Johns       Gladys               12 Walden Ave.                              Walden Avenue
+ 337 Johns       Robert W.            12 Walden Ave.                              Walden Avenue
+ 461 Prior       Lydia                12 Walden Ave.                              Walden Avenue
+ 395 Mattingly   Geoffrey E.          14 Walden Ave.                              Walden Avenue
+ 396 Mattingly   Margaret M.          14 Walden Ave.                              Walden Avenue
+ 338 Johnston    Hannah               15 Walden Ave.                              Walden Avenue
+ 339 Johnston    Roderick             15 Walden Ave.                              Walden Avenue
+ 464 Rafferty    Isabel               15 Walden Ave.                              Walden Avenue
+ 465 Rafferty    Thomas B.            15 Walden Ave.                              Walden Avenue
+ 120 Chilton     Dennis H.            Andes, Walden Ave.                          Walden Avenue
+ 121 Chilton     Renee V.             Andes, Walden Ave.                          Walden Avenue
+ 292 Hirsch      Andre                Dingley Dell, Walden Ave.                   Walden Avenue
+ 293 Hirsch      Betty A.             Dingley Dell, Walden Ave.                   Walden Avenue
+ 488 Scraggs     Helen A.             High Oak, Walden Ave.                       Walden Avenue
+ 487 Scraggs     Arthur F.            High Oak, Walden Ave.                       Walden Avenue
+ 415 Muir        Andrew Leiper        Maiemont, Walden Ave.                       Walden Avenue
+ 579 Wallace     Elizabeth A.         Maiemont, Walden Ave.                       Walden Avenue
+ 580 Wallace     Gordon Stanley StepheMaiemont, Walden Ave.                       Walden Avenue
+ 410 Moore       Doreen J.            Walden Ave.                                 Walden Avenue
+ 193 Farrell     Albert P. W.         Waterside                                   Waterside
+ 194 Farrell     Betty W.             Waterside                                   Waterside
+  54 Bates       Herbert C.           Westlands, Westlands Copse                  Westlands Copse
+  55 Bates       Lily                 Westlands, Westlands Copse                  Westlands Copse
+  56 Bates       Percy                Westlands, Westlands Copse                  Westlands Copse
+ 627 Woods       Albert               Whitehall Cot.                              Whitehall Cottage
+ 628 Woods       Hilda K. N.          Whitehall Cot.                              Whitehall Cottage
+ 562 Tucker      Frederick W.         Wood End                                    Wood End
+ 564 Tucker      Lily M.              Wood End                                    Wood End
+ 149 Crocker     Rosina               Wormstall                                   Wormstall 
+
+    J - liability for service as Juror
+    S - indicates Service Voter

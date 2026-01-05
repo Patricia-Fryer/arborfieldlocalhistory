@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Arborfield Local History — Placeholder</title>
+    <style>
+      body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; max-width: 42rem; margin: 4rem auto; padding: 0 1rem; color: #0f172a; }
+      header { border-bottom: 1px solid #e2e8f0; margin-bottom: 1.5rem; }
+      h1 { margin: 0.5rem 0 0; font-size: 1.75rem; }
+      p.lead { color: #334155; }
+      pre { background: #f8fafc; padding: 1rem; overflow: auto; }
+      a.button { display: inline-block; background: #0369a1; color: white; padding: 0.5rem 0.75rem; border-radius: 6px; text-decoration: none; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Arborfield Local History</h1>
+      <p class="lead">Repository initialized for GitHub Pages. This is a placeholder page.</p>
+    </header>
+
+    <main>
+      <p>If you want me to push your website files from OneDrive into this repository, either upload a zip of your site here or follow the instructions in the <a href="https://github.com/Patricia-Fryer/arborfieldlocalhistory/blob/main/README.md">README</a> from your local machine.</p>
+
+      <h2>Quick commands to push from your OneDrive folder</h2>
+      <pre>
+# From your OneDrive site folder (not a git repo)
+cd "/path/to/OneDrive/YourSiteFolder"
+
+git init
+git add .
+git commit -m "Initial commit: website from OneDrive"
+git branch -M main
+git remote add origin https://github.com/Patricia-Fryer/arborfieldlocalhistory.git
+git push -u origin main
+      </pre>
+
+      <p>After you push, enable Pages in Settings → Pages and choose the <strong>main</strong> branch and the <strong>/docs</strong> folder as the publishing source.</p>
+
+      <p class="muted">If you'd like me to set the Pages publishing source for you or push files on your behalf, tell me and provide the site files (zip) or confirm I have permission to change repository settings.</p>
+    </main>
+  </body>
+</html>

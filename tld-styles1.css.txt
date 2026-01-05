@@ -1,0 +1,97 @@
+/* -------------- Arborfield Local History Society STYLE SHEET -------------- */
+body{background-color:#FFFFFF;border:0px;margin:0px;font-family: Verdana, Tahoma,Arial, Helvetica, sans-serif, "MS sans serif";font-size:13px;font-weight:normal;color:#000000;}
+table{font-family:Verdana, Tahoma,Arial, Helvetica, sans-serif, "MS sans serif";font-size:13px;}
+tr{font-family:Verdana, Tahoma,Arial, Helvetica, sans-serif, "MS sans serif";font-size:13px;}
+td{font-family:Verdana, Tahoma,Arial, Helvetica, sans-serif, "MS sans serif";font-size:13px;}
+b{font-weight:bold;}
+p{font-family:Verdana, Tahoma,Arial, Helvetica, sans-serif, "MS sans serif";}
+div{font-family:Verdana, Tahoma,Arial, Helvetica, sans-serif, "MS sans serif";}
+a{font-family:Verdana, Tahoma,Arial, Helvetica, sans-serif, "MS sans serif";text-decoration:none;}
+.o{}/* - in to help object coding should be left empty- */
+
+h1           { font-family: "Times New Roman" }
+h2           { font-family: Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif" }
+h3           { font-family: Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif" }
+h4           { font-family: Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif" }
+
+hl           { font-family: Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif" }
+
+.tophead {font-size:18px;margin-top:12px; margin-bottom:12px;font-weight:bold}
+.topbody {font-size:12px;margin-top:12px; margin-bottom:12px;}
+
+.sthead  {font-size:12px;margin-top:12px; margin-bottom:12px;font-weight:bold }
+.stbody  {font-size:12px;margin-top:12px; margin-bottom:12px;}
+
+.mmpb        { font-size: 11px;font-weight:bold }
+.mmpl        { font-size: 11px }
+
+.smpb        { font-size: 10px;font-weight:bold }
+.smpl        { font-size: 10px }
+
+.rhbh  { font-size:12px; font-weight:bold; margin-left:4px; margin-right:4px; margin-top:4px; margin-bottom:4px; text-align:center;}
+.rhbb  { font-size:11px; font-weight:bold; margin-left:4px; margin-right:4px; margin-top:4px; margin-bottom:4px; }
+.rhbl  { font-size:11px; font-weight:normal; margin-left:4px; margin-right:4px; margin-top:4px; margin-bottom:4px; }
+
+
+/* ---------- GENERAL LINKS ----------- */
+a:link   {font-family:Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif";text-decoration:none;font-size:11px;color:#000099;}
+a:visited{font-family:Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif";text-decoration:none;font-size:11px;color:#000066;}
+a:active {font-family:Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif";text-decoration:none;font-size:11px;color:#000099;}
+a:hover  {font-family:Verdana,Tahoma,Arial,Helvetica,sans-serif,"MS sans serif";font-size:11px;color:#6666CC;text-decoration:underline;}
+
+a.stlink:link{color:#990000;font-size:12px;font-weight:bold;}
+a.stlink:active{color:#990000;font-size:12px;font-weight:bold;}
+a.stlink:visited{color:#660000;font-size:12px;font-weight:bold;}
+a.stlink:hover{color:#CC6666;font-size:12px;font-weight:bold;}
+
+a.stlinks:link{color:#990000;font-size:10px;font-weight:bold;}
+a.stlinks:active{color:#990000;font-size:10px;font-weight:bold;}
+a.stlinks:visited{color:#660000;font-size:10px;font-weight:bold;}
+a.stlinks:hover{color:#CC6666;font-size:10px;font-weight:bold;}
+
+a.tsh:link{font-size:16px;font-weight:bold;color:#000099;}	
+a.tsh:visited{font-size:16px;font-weight:bold;color:#000066;}
+a.tsh:hover{font-size:16px;font-weight:bold;color:#6666CC;}
+a.tsh:active{font-size:16px;font-weight:bold;color:#000099;}
+
+
+
+.bt{font-size:13px;}
+.sh{font-size:18px;font-weight:bold;color:#000000;}
+.ish{font-size:16px;font-weight:bold;color:#666633;margin-top:5px;}
+.rhst{font-size:11px;}
+.nlp{font-size:10px;font-weight:bold;color:#666666;}
+.nlpuff{font-size:11px;font-weight:bold;}
+.nlpa{font-size:10px;font-weight:bold;color:#000000;}/*style a*/
+.ds{font-size:11px;color:#000000;} 
+.di{font-size:11px;color:#666666;}
+.la{font-size:11px;font-weight:bold;color:#666666;} 
+.lu{font-size:11px;color:#666666;} 
+/* ---------- LHS ----------- */
+.lhs{text-align:right;font-size:11px;background-color:#FFFFFF;border:1px;width:130px;padding-top:0px;}
+.lhsad{text-align:right;font-size:11px;background-color:#EEEEEE;border:1px;width:130px;padding-top:5px;}
+.lhsb{padding-bottom:2px;padding-top:2px;padding-right:6px;font-weight:bold;}
+.lhsl{padding-bottom:2px;padding-top:2px;padding-right:6px;}
+.lhssq{background-repeat:repeat-y;background-color:#999999;padding-bottom:2px; padding-top:2px; padding-right:6px; font-weight:bold;}
+.lhssqs{background-image:url("colours/bar6666cc.gif");background-repeat:repeat-y;background-color:#ffffcc;padding-bottom:2px;padding-top:2px;padding-right:6px;font-weight:bold;}
+.lhsbsn{background-image:url("colours/barcc00cc.gif");background-color:#cccccc;padding-bottom:2px;padding-top:2px;padding-right:6px;font-weight:bold;}
+.lhslt{padding-bottom:2px;padding-top:2px;padding-right:6px;background-color:#cccccc;}
+
+.lhsmall{font-size:11px;color:#666666;padding-right:6px;}
+
+.lhsdl{font-size:11px;color:#666666;padding-right:6px;}
+
+.lhsnlp{font-size:10px;color:#999999;font-weight:bold;padding-bottom:2px;padding-top:2px;padding-right:6px;}
+.lhsmi{background-color:#cccccc;}
+.lhssp{font-size:8px; color:#eeeeee;}
+.lhsgo{padding-top:4px;padding-right:6px;}
+.lhsql{font-size:11px;background-color:#EEEEEE;padding-left:6px;}
+.lhsssl{padding-bottom:2px;padding-top:2px;padding-left:12px;}
+
+a.lhsnl:link{color:#990000;text-decoration:none;}		
+a.lhsnl:active{color:#990000;text-decoration:none;}
+a.lhsnl:visited{color:#660000;text-decoration:none;}
+a.lhsnl:hover{color:#CC6666;text-decoration:underline;}
+.lhsdl{color:#CCCCCC;} 
+
+
